@@ -1,4 +1,4 @@
-# Olá 👋 Sejam todos bem-vindos
+# Olá 👋 Sejam todos bem-vindos!
 
 - 💻 Estudando: JavaScript, React, Node.js
 
