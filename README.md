@@ -1,4 +1,4 @@
-### Olá! Eu sou o Éder Cruz
+## Olá 👋 Sejam todos bem-vindos
 
 - 💻 Estudando: JavaScript, React, Node.js
 
