@@ -1,6 +1,6 @@
 # Olá 👋 Sejam todos bem-vindos!
 
-- 💻 Estudando: JavaScript, React, Node.js
+- 💻 Estudando: JavaScript, React, Node.js, TypeScript
 
 
   
@@ -10,7 +10,6 @@
   <img align="center" alt="Eder-NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Eder-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eder-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
   <img align="center" alt="Eder-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
   
